@@ -13,7 +13,7 @@ The purpose of the project is to implement client server JWT authentication usin
 
 ### Frontend
 1. Go to frontend folder
-2. `npm install`
-3. `npm start`
+2. `yarn install`
+3. `yarn run start`
 
 Browse to localhost:3000
