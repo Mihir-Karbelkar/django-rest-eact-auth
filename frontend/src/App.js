@@ -120,7 +120,11 @@ class App extends Component {
           />
 
           <h3>{text}</h3>
-          <h3>{this.state.logged_in ? `Hello, ${this.state.username}` : ""}</h3>
+          <h3>
+            {this.state.logged_in
+              ? `Hello, ${this.state.username}`
+              : this.state.errors}
+          </h3>
           {form}
         </div>
       </div>
