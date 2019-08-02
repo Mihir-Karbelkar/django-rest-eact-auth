@@ -1,4 +1,4 @@
-# django-rest-eact-auth
+# Django-rest-React-auth
 Django rest and react authentication
 
 ### Project Purpose
