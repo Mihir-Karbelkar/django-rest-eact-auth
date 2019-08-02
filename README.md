@@ -7,7 +7,7 @@ The purpose of the project is to implement client server JWT authentication usin
 ## Instructions
 ### Backend
 1. Go to backend folder and have a virtualenv open
-2. Do `pip install requirements.txt`
+2. Do `pip install -r requirements.txt`
 3. `python manage.py migrate`
 4. `python manage.py runserver`
 
